@@ -1,2 +1,5 @@
 # virarp
-bakım sunu
+bakım 
+aktif
+ip 
+
